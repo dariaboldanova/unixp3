@@ -5,3 +5,4 @@
 
 TEAM_NAME = "six_seven"
 MOTTO = "seven_six"
+print('йоууу')
