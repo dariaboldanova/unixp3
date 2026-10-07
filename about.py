@@ -6,3 +6,4 @@
 TEAM_NAME = "six_seven"
 MOTTO = "seven_six"
 print('йоууу')
+vozmi_telefon_detka = True
